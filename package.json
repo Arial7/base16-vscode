@@ -3,11 +3,11 @@
     "displayName": "Base16 Themes",
     "description": "Base 16 themes ported from TextMate/Sublime",
     "version": "1.3.0",
-    "publisher": "AndrsDC",
+    "publisher": "Arial7",
     "author": {
-        "name": "Andrés Del Carpio",
-        "email": "andresdc@andresdc.net",
-        "url": "http://delcarp.io"
+        "name": "Pascal Riesinger",
+        "email": "riesinger.pascal@gmail.com",
+        "url": "https://pascal-riesinger.de"
     },
     "keywords": [
         "base16",
@@ -25,13 +25,12 @@
     "categories": [
         "Themes"
     ],
-    "homepage": "https://marketplace.visualstudio.com/items?itemName=AndrsDC.base16-themes",
     "repository": {
         "type": "git",
-        "url": "https://github.com/AndrsDC/base16-vscode.git"
+        "url": "https://github.com/arial7/base16-vscode.git"
     },
     "bugs": {
-        "url": "https://github.com/AndrsDC/base16-vscode/issues"
+        "url": "https://github.com/arial7/base16-vscode/issues"
     },
     "license": "MIT",
     "contributes": {

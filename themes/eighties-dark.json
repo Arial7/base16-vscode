@@ -4,7 +4,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#2d2d2d",
+				"background": "#383838",
 				"foreground": "#d3d0c8"
 			}
 		},
@@ -366,7 +366,7 @@
 		}
 	],
 	"colors": {
-		"editor.background": "#2d2d2d",
+		"editor.background": "#383838",
 		"editorCursor.foreground": "#d3d0c8",
 		"editor.foreground": "#d3d0c8",
 		"editorWhitespace.foreground": "#747369",
